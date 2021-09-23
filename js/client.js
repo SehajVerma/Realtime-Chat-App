@@ -8,7 +8,7 @@ const audio = new Audio('ting.mp3');
 
 let name;
 do{
- name = prompt("Enter name to join chat with user");
+ name = prompt("Enter name to join chat with user hahaha");
 } while(!name)
 
 
